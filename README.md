@@ -1,4 +1,4 @@
-# Multi-Step Registration Form 🚀
+# Multi-Step Registration Form 
 
 A professional, modern multi-step form built with React that showcases real-world frontend development skills. This project demonstrates form validation, state management, user experience design, and responsive web development.
 
@@ -7,30 +7,30 @@ A professional, modern multi-step form built with React that showcases real-worl
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.6-38B2AC)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ✨ Features
+##  Features
 
-### 🎯 Core Functionality
+###  Core Functionality
 - **Multi-step form navigation** with progress tracking
 - **Real-time form validation** using Yup schemas
 - **Responsive design** that works on all devices
 - **LocalStorage persistence** to prevent data loss
 - **Smooth animations** and transitions
 
-### 🔧 Technical Features
+###  Technical Features
 - **React Hook Form** for efficient form management
 - **Yup validation** with custom error messages
 - **TailwindCSS** for modern, responsive styling
 - **Vite** for fast development and building
 - **ESLint** for code quality
 
-### 🎨 User Experience
+###  User Experience
 - **Progress bar** showing current step and completion
 - **Back/Next navigation** with validation
 - **Error handling** with clear feedback
 - **Success confirmation** with next steps
 - **Accessibility** features for better UX
 
-## 📋 Form Steps
+##  Form Steps
 
 ### Step 1: Personal Information
 - First Name & Last Name (with validation)
@@ -53,7 +53,7 @@ A professional, modern multi-step form built with React that showcases real-worl
 - Next steps guidance
 - Option to start over
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: React 18.2.0
 - **Form Management**: React Hook Form 7.48.2
@@ -62,7 +62,7 @@ A professional, modern multi-step form built with React that showcases real-worl
 - **Build Tool**: Vite 5.0.8
 - **Package Manager**: npm
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (version 16 or higher)
@@ -118,7 +118,7 @@ multi-step-form/
 └── README.md
 ```
 
-## 🎨 Customization
+##  Customization
 
 ### Styling
 The project uses TailwindCSS with custom color schemes. You can modify the colors in `tailwind.config.js`:
@@ -150,7 +150,7 @@ To add a new step:
 3. Define validation schema if needed
 4. Update the progress bar logic
 
-## 🌟 Key Learning Outcomes
+##  Key Learning Outcomes
 
 This project demonstrates:
 
@@ -161,7 +161,7 @@ This project demonstrates:
 - **Code Organization**: Modular component architecture
 - **Modern React**: Hooks, functional components, and best practices
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The form is fully responsive and works seamlessly on:
 - Desktop computers
@@ -169,14 +169,14 @@ The form is fully responsive and works seamlessly on:
 - Mobile phones
 - All modern browsers
 
-## 🔒 Security Features
+##  Security Features
 
 - Password strength validation
 - Secure form submission handling
 - No sensitive data stored in localStorage
 - Input sanitization and validation
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -184,28 +184,16 @@ The form is fully responsive and works seamlessly on:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [React Hook Form](https://react-hook-form.com/) for efficient form management
 - [Yup](https://github.com/jquense/yup) for schema validation
 - [TailwindCSS](https://tailwindcss.com/) for utility-first CSS
 - [Vite](https://vitejs.dev/) for fast build tooling
 
-## 📞 Support
-
-If you have any questions or need help with this project, please:
-
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
-- Check the documentation above
-
 ---
 
-**Built with ❤️ by [Your Name]**
 
 *This project showcases real-world frontend development skills and is perfect for portfolios and learning React best practices.*
 
